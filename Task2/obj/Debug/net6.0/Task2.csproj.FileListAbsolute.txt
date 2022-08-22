@@ -1,0 +1,15 @@
+E:\programmer\C#8\homework_C-8\Task2\bin\Debug\net6.0\Task2.exe
+E:\programmer\C#8\homework_C-8\Task2\bin\Debug\net6.0\Task2.deps.json
+E:\programmer\C#8\homework_C-8\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+E:\programmer\C#8\homework_C-8\Task2\bin\Debug\net6.0\Task2.dll
+E:\programmer\C#8\homework_C-8\Task2\bin\Debug\net6.0\Task2.pdb
+E:\programmer\C#8\homework_C-8\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+E:\programmer\C#8\homework_C-8\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+E:\programmer\C#8\homework_C-8\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+E:\programmer\C#8\homework_C-8\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+E:\programmer\C#8\homework_C-8\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+E:\programmer\C#8\homework_C-8\Task2\obj\Debug\net6.0\Task2.dll
+E:\programmer\C#8\homework_C-8\Task2\obj\Debug\net6.0\refint\Task2.dll
+E:\programmer\C#8\homework_C-8\Task2\obj\Debug\net6.0\Task2.pdb
+E:\programmer\C#8\homework_C-8\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+E:\programmer\C#8\homework_C-8\Task2\obj\Debug\net6.0\ref\Task2.dll
